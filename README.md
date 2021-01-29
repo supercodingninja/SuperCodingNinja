@@ -1,4 +1,15 @@
-<h1 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja" /></p> 👋🏿 I'm Frederick Thomas, <span style="color: red">Super Coding Ninja™</span>
+<h1 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja" /></p> 👋🏿 I'm Frederick Thomas, <span style="background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;">Super Coding Ninja™</span>
 <a href="https://codepen.io/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="40" /></a>
 <a href="https://fb.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="40" /></a>
