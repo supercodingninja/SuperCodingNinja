@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/supercodingninja](https://github.com/supercodingninja)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/discoverfrederickthomas/detail/recent-activity/posts/; and](https://www.linkedin.com/in/discoverfrederickthomas/detail/recent-activity/posts/; and)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/discoverfrederickthomas/detail/recent-activity/posts/)
 
 - 💬 Ask me about **HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones ;-)**
 
