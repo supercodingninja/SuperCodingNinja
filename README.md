@@ -18,7 +18,7 @@
 
 <h3 align="left">Buy Me Coffee, To Show Your Support!</h3>
 
-<p><a href="https://www.buymeacoffee.com/FrederickThomas"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FrederickThomas"/></a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja"/></p>
+<p><a href="https://www.buymeacoffee.com/FrederickThomas"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FrederickThomas"/></a></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja"/></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" /></p>
 
