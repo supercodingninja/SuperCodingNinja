@@ -1,4 +1,8 @@
-<h1 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja" /></p> 👋🏿 I'm Frederick Thomas, <span style="color: red">Super Coding Ninja™</span></h1>
+<h1 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja" /></p> 👋🏿 I'm Frederick Thomas, <span style="color: red">Super Coding Ninja™</span></h1><p align="left">
+<a href="https://codepen.io/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="40" /></a>
+<a href="https://fb.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="40" /></a>
 
 <br><br>
 
@@ -8,20 +12,15 @@
 
 <br><br><br>
 
-<h3 align="left">Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
-<p align="left">
-<a href="https://codepen.io/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="40" /></a>
-<a href="https://fb.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="40" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/FrederickThomas"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FrederickThomas"/></a></p>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" /></a> </p>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja"/></p>
+<h3 align="left">Buy Me Coffee, To Show Your Support!</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" /></p>
+<p><a href="https://www.buymeacoffee.com/FrederickThomas"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FrederickThomas"/></a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja"/></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" /></p>
 
 
 <p align="left">I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Front-End Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well. Please feel free to sponsor me; so that I may continue my education and goals. Thank you for visiting; and everyone who sponsors me!</p>
