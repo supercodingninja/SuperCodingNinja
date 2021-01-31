@@ -3,7 +3,7 @@
 <a href="https://codepen.io/supercodingninja" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>
 <a href="https://fb.com/supercodingninja" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30" /></a></p> [![You CAN Do It!](http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg)](http://www.youtube.com/watch?v=gP-fl4-H7hY "Start Now, Transform Today!")
+<a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30" /></a></p>&nbsp;[![Start Now, Transform Today!](http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg)](http://www.youtube.com/watch?v=gP-fl4-H7hY "#DiscoverFrederickThomas")
 
 <br>
 
