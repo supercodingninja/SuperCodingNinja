@@ -3,13 +3,15 @@
 
 <img align="center" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" width="100%"/>
 
+<br>
+
 <p align="left">I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Front-End Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well. Please feel free to sponsor me; so that I may continue my education and goals. Buy Me Coffee, To Show Your Support! Thank you for visiting; and everyone who sponsors me!</p>
 
 <p>
-  <a href="https://www.buymeacoffee.com/FrederickThomas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FrederickThomas"/></a><a href="https://codepen.io/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>
-  <a href="https://fb.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>
+  <a href="https://www.buymeacoffee.com/FrederickThomas"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FrederickThomas"/></a><a href="https://codepen.io/supercodingninja" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>
+  <a href="https://fb.com/supercodingninja" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja"/><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" /></a></p>
@@ -20,7 +22,7 @@
 
 
 <span align="center">
-- 🔭 I’m currently working on [All Gear Essential](https://github.com/users/supercodingninja/projects/2)
+- 🔭 I’m currently working on [All Gear Essential](https://github.com/supercodingninja/AllGearEssential)
 
 - 🌱 I’m currently learning **TypeScript, Oracle Database, Kibana, and Puppeteer. These are all self-studies I just started, to keep myself coding; and break away from my curriculum (one hour only, one subject only: schedule). I am interested in learning the front-end development, EmberJS; but I may need to study AngularJS, first. My curriculum will be teaching me ReactJS.**
 
