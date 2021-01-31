@@ -11,9 +11,7 @@
 <a href="https://codepen.io/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>
 <a href="https://fb.com/supercodingninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>&nbsp;Check out my motivational video <font=2>👇🏿</font></p>
-
-<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY"><img align="center" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" width="100%"/>
+<a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>&nbsp;
 
 <br><br><br>
 
@@ -37,3 +35,6 @@
 
 - ⚡ Fun fact **I can play any saxophone. I am learning how to play the keyboard and piano, along with learning the guitar (my fingers 😆) to help me progress in my chord theory. All of this helps me become a better asset to my church organization, as a minister. I am a decorative U. S. Marine, including awards for several Humanitarian Operations, while serving in Operations: Enduring Freedom ; and Iraqi Freedom (three (3) deployments total. I am to serve my community; and our world (that's what being a minister means: a servant). I hope to serve by giving back: teaching children less fortunate, how to code; and showing them that there is a world they can reach, and even travel beyond. I also love football (played TE and Safety). I played back-half in Rugby. I wrestle for my JV and Varsity team in high school. I later learned how to grapple; and I studied mixed martial arts. My favorite team I was on was the Marching Band (#1). I choose to live life; and live it well.**
 </span>
+<p align="center">Check out my motivational video <font=2>👇🏿</font></p>
+
+<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY"><img align="center" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" width="100%"/>
