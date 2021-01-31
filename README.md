@@ -5,7 +5,7 @@
 <a href="https://fb.com/supercodingninja" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>
 <br>
-Check out my motivational ==></p>
+Check out my motivational👇🏿</p>
 
 [![#DiscoverFrederickThomas](http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg)](http://www.youtube.com/watch?v=gP-fl4-H7hY "Start Now, Transform Today!")
 
