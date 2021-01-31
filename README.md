@@ -3,7 +3,7 @@
 
 <img align="center" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" width="100%"/>
 
-<p align="left">I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Front-End Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well. Please feel free to sponsor me; so that I may continue my education and goals. Thank you for visiting; and everyone who sponsors me!</p>
+<p align="left">I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Front-End Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well. Please feel free to sponsor me; so that I may continue my education and goals. Buy Me Coffee, To Show Your Support!<a href="https://www.buymeacoffee.com/FrederickThomas"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FrederickThomas"/></a></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja"/> Thank you for visiting; and everyone who sponsors me!</p>
 
 <h1 align="center"> <span style="color:#c62d1f"></span></h1><br>
 <p align="center"<img src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/>
@@ -19,15 +19,7 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" /></a> </p>
 
-
-<h3 align="left">Buy Me Coffee, To Show Your Support!</h3>
-
-<p><a href="https://www.buymeacoffee.com/FrederickThomas"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FrederickThomas"/></a></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja"/></p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" /></p>
-
-
-
 
 
 <span align="center">
