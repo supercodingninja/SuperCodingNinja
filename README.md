@@ -1,4 +1,4 @@
-[![You CAN Do It!](http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg)](http://www.youtube.com/watch?v=gP-fl4-H7hY "Start Now, Transform Today!")<p align=right>👋🏿 I'm Frederick Thomas, <span style="color:#c62d1f">Super Coding Ninja™</span></p>
+[![align=right You CAN Do It!](http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg)](http://www.youtube.com/watch?v=gP-fl4-H7hY "Start Now, Transform Today!")<p align=right>👋🏿 I'm Frederick Thomas, <span style="color:#c62d1f">Super Coding Ninja™</span></p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja" />
 <a href="https://codepen.io/supercodingninja" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30" /></a>
