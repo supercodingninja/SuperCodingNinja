@@ -1,13 +1,13 @@
-<h1 align="center">👋🏿 I'm Frederick Thomas, <span style="color:#c62d1f">Super Coding Ninja™</span></h1>
+<h1 align="center">👋🏿  I'm Frederick Thomas, <span style="color:#c62d1f">Super Coding Ninja™</span></h1>
 <p align="left"<img src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/>
 <a href="https://codepen.io/supercodingninja" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/discoverfrederickthomas" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>
 <a href="https://fb.com/supercodingninja" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supercodingninja" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>
 <br>
-Check out my motivational video<font=2>👇🏿</font></p>
+Check out my motivational video <font=2>👇🏿</font></p>
 
-[![#DiscoverFrederickThomas](http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg)](http://www.youtube.com/watch?v=gP-fl4-H7hY "Start Now, Transform Today!")
+[![#DiscoverFrederickThomas](img align="center" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg")](http://www.youtube.com/watch?v=gP-fl4-H7hY "Start Now, Transform Today!")
 
 <br>
 
