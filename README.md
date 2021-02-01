@@ -4,7 +4,7 @@
 </p>
 
 #### Click This Slideshow 👇🏿 To Hear Awesome Audio
-<a href="Assets/Media/US2.mp4" alt="Not alone: US!!! #DiscoverFrederickThomas" title="US!!!" target="_blank"><img align="center" src="/Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas" width="100%"/></a>
+<img align="center" src="/Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas" title="US!!!" target="_blank" width="100%"/>
 
 <img align="center" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" width="100%"/>
 
