@@ -5,7 +5,6 @@
 <img align="center" src="/Assets/Media/us.gif" alt="US, not alone! #DiscoverFrederickThomas" width="100%"/>
 
 [Click This Slideshow 👇🏿 To Hear Awesome Audio](/Assets/Media/us.mp4)
-![Gif](/Assets/Media/us.gif)
 
 <br>
 
