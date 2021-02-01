@@ -1,4 +1,5 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/>
+
 ###### <a href="Assets/Frederick Thomas_CV_2020.pdf" align="left" alt="Page hyperlink to 'Resume' section." title="Resume" target="_blank">Resume</a>
 
 <h3 align="center">Languages and Tools</h3>
