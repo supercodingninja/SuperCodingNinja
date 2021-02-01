@@ -1,8 +1,15 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/><h3 align="center">Languages and Tools</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img align="left" src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/>
 
+###### <a href="Assets/Frederick Thomas_CV_2020.pdf" align="left" alt="Page hyperlink to 'Resume' section." title="Resume" target="_blank">Resume</a>
 
-<img align="center" src="/Assets/Media/us.gif" alt="US, not alone! #DiscoverFrederickThomas" width="100%"/>
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
+</p>
+
+#### [Click 👉🏿 Here 👈🏿 To View With The Audio](https://youtu.be/WXV3oAYTQp4)![thumbnail](Assets/Media/us.gif)
+
+<br>
 
 <img align="center" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" width="100%"/>
 
@@ -31,21 +38,29 @@
 
 
 <span align="center">
+
 - 🔭 I’m currently working on [All Gear Essential](https://github.com/supercodingninja/AllGearEssential)
+
 
 - 🌱 I’m currently learning **TypeScript, Oracle Database, Kibana, and Puppeteer. These are all self-studies I just started, to keep myself coding; and break away from my curriculum (one hour only, one subject only: schedule). I am interested in learning the front-end development, EmberJS; but I may need to study AngularJS, first. My curriculum will be teaching me ReactJS.**
 
+
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/supercodingninja); but I'm expanding to [CodePen](https://codepen.io/SuperCodingNinja)
+
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/discoverfrederickthomas/detail/recent-activity/posts/)
 
+
 - 💬 Ask me about **HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones ;-)**
+
 
 - 📫 How to reach me **SuperCodingNinja@outlook.com**
 
+
 - 📄 Know about my [experiences](https://supercodingninja.github.io/Portfolio_Discover-Frederick-Thomas/Assets/Frederick%20Thomas_CV_2020.pdf)
 
-- ⚡ Fun fact **I can play any saxophone. I am learning how to play the keyboard and piano, along with learning the guitar (my fingers 😆) to help me progress in my chord theory. All of this helps me become a better asset to my church organization, as a minister. I am a decorative U. S. Marine, including awards for several Humanitarian Operations, while serving in Operations: Enduring Freedom ; and Iraqi Freedom (three (3) deployments total. I am to serve my community; and our world (that's what being a minister means: a servant). I hope to serve by giving back: teaching children less fortunate, how to code; and showing them that there is a world they can reach, and even travel beyond. I also love football (played TE and Safety). I played back-half in Rugby. I wrestle for my JV and Varsity team in high school. I later learned how to grapple; and I studied mixed martial arts. My favorite team I was on was the Marching Band (#1). I choose to live life; and live it well.**
+
+- ⚡ Fun fact **I can play any saxophone. I am learning how to play the keyboard and piano, along with learning the guitar (my fingers 😆) to help me progress in my chord theory.** All of this helps me become a better asset to my church organization, as a minister. I am a decorative U. S. Marine, including awards for several Humanitarian Operations, while serving in Operations: Enduring Freedom ; and Iraqi Freedom (three (3) deployments total. I am to serve my community; and our world (that's what being a minister means: a servant). I hope to serve by giving back: teaching children less fortunate, how to code; and showing them that there is a world they can reach, and even travel beyond. I also love football (played TE and Safety). I played back-half in Rugby. I wrestle for my JV and Varsity team in high school. I later learned how to grapple; and I studied mixed martial arts. My favorite team I was on was the Marching Band (#1). I choose to live life; and live it well.**
 </span>
 
 <br>
