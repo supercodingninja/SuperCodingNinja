@@ -31,21 +31,29 @@
 
 
 <span align="center">
+
 - 🔭 I’m currently working on [All Gear Essential](https://github.com/supercodingninja/AllGearEssential)
+
 
 - 🌱 I’m currently learning **TypeScript, Oracle Database, Kibana, and Puppeteer. These are all self-studies I just started, to keep myself coding; and break away from my curriculum (one hour only, one subject only: schedule). I am interested in learning the front-end development, EmberJS; but I may need to study AngularJS, first. My curriculum will be teaching me ReactJS.**
 
+
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/supercodingninja); but I'm expanding to [CodePen](https://codepen.io/SuperCodingNinja)
+
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/discoverfrederickthomas/detail/recent-activity/posts/)
 
+
 - 💬 Ask me about **HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones ;-)**
+
 
 - 📫 How to reach me **SuperCodingNinja@outlook.com**
 
+
 - 📄 Know about my [experiences](https://supercodingninja.github.io/Portfolio_Discover-Frederick-Thomas/Assets/Frederick%20Thomas_CV_2020.pdf)
 
-- ⚡ Fun fact **I can play any saxophone. I am learning how to play the keyboard and piano, along with learning the guitar (my fingers 😆) to help me progress in my chord theory. All of this helps me become a better asset to my church organization, as a minister. I am a decorative U. S. Marine, including awards for several Humanitarian Operations, while serving in Operations: Enduring Freedom ; and Iraqi Freedom (three (3) deployments total. I am to serve my community; and our world (that's what being a minister means: a servant). I hope to serve by giving back: teaching children less fortunate, how to code; and showing them that there is a world they can reach, and even travel beyond. I also love football (played TE and Safety). I played back-half in Rugby. I wrestle for my JV and Varsity team in high school. I later learned how to grapple; and I studied mixed martial arts. My favorite team I was on was the Marching Band (#1). I choose to live life; and live it well.**
+
+- ⚡ Fun fact **I can play any saxophone. I am learning how to play the keyboard and piano, along with learning the guitar (my fingers 😆) to help me progress in my chord theory.** All of this helps me become a better asset to my church organization, as a minister. I am a decorative U. S. Marine, including awards for several Humanitarian Operations, while serving in Operations: Enduring Freedom ; and Iraqi Freedom (three (3) deployments total. I am to serve my community; and our world (that's what being a minister means: a servant). I hope to serve by giving back: teaching children less fortunate, how to code; and showing them that there is a world they can reach, and even travel beyond. I also love football (played TE and Safety). I played back-half in Rugby. I wrestle for my JV and Varsity team in high school. I later learned how to grapple; and I studied mixed martial arts. My favorite team I was on was the Marching Band (#1). I choose to live life; and live it well.**
 </span>
 
 <br>
