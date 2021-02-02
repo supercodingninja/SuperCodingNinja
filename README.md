@@ -15,12 +15,10 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" append=20//>
-</p>
 
 <br>
-
-<p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja" append=200/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja" append=200/>
 </p>
 
 <br>
