@@ -67,4 +67,4 @@
 
 <p align="center">Check out my motivational video <font=2>👇🏿</font></p>
 
-<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY"><img align="center" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" =250px/>
+<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY"><img align="center" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=250px/>
