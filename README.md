@@ -35,7 +35,9 @@
 
 ###### <img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja"/>
 
-###### <a href="https://github-profile-trophy.vercel.app/?username=supercodingninja"><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja"/></a>
+<br>
+
+###### <a href="https://github-profile-trophy.vercel.app/?username=supercodingninja"><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" align="center"/></a>
 
 <br>
 
