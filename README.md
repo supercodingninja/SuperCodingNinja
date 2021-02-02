@@ -37,7 +37,7 @@
 
 <br>
 
-###### <a href="https://github-profile-trophy.vercel.app/?username=supercodingninja"><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" align="center"/></a>
+<a href="https://github-profile-trophy.vercel.app/?username=supercodingninja"><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" align="center"/></a>
 
 <br>
 
