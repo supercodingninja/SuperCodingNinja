@@ -9,11 +9,11 @@
 
 ###### Click 👉🏿 Here 👈🏿 To View With The Audio
 
-<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="center" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas" append=225/></a>
+<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="center" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas" append=150/></a>
 
 <br>
 
-<a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="center" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=225/></a>
+<a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="center" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=150/></a>
 
 <p align="center"><a href=""><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" /></a></p>
 
