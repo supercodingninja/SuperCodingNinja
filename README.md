@@ -34,13 +34,17 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" append=100x20/></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" append=80x20//>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" append=80x20/>
+ </p>
 
-<br><br><br>
+<br>
 
 <p align="center"><a href=""><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja"/></a></p>
 
-<br><br><br>
+<br>
 
 <span align="center">
 
