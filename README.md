@@ -35,9 +35,9 @@
 <br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" append=80x20//>
+  <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" append=20//>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" append=80x20/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" append=20/>
  </p>
 
 <br>
