@@ -9,11 +9,18 @@
 
 ###### Click 👉🏿 Here 👈🏿 To View With The Audio
 
-<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="left" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas" append=150/></a>
+<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="center" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas" append=225/></a>
 
-<a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=150/></a>
+<br>
 
-<p align="right"><a href=""><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" /></a></p>
+<a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=150/></a>
+
+###### Check out my motivational video 👇🏿
+
+<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="right" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=250/></a>
+
+
+<p align="center"><a href=""><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" /></a></p>
 
 <p align="left">I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Front-End Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well. Please feel free to sponsor me; so that I may continue my education and goals. Buy Me Coffee, To Show Your Support! Thank you for visiting; and everyone who sponsors me!</p>
 
@@ -60,9 +67,3 @@
 
 - ⚡ Fun fact **I can play any saxophone. I am learning how to play the keyboard and piano, along with learning the guitar (my fingers 😆) to help me progress in my chord theory.** All of this helps me become a better asset to my church organization, as a minister. I am a decorative U. S. Marine, including awards for several Humanitarian Operations, while serving in Operations: Enduring Freedom ; and Iraqi Freedom (three (3) deployments total. I am to serve my community; and our world (that's what being a minister means: a servant). I hope to serve by giving back: teaching children less fortunate, how to code; and showing them that there is a world they can reach, and even travel beyond. I also love football (played TE and Safety). I played back-half in Rugby. I wrestle for my JV and Varsity team in high school. I later learned how to grapple; and I studied mixed martial arts. My favorite team I was on was the Marching Band (#1). I choose to live life; and live it well.**
 </span>
-
-<br>
-
-<p align="center">Check out my motivational video <font=2>👇🏿</font></p>
-
-<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY"><img align="center" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas"/>
