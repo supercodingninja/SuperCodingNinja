@@ -1,3 +1,4 @@
+![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-brightgreen) ![Badge](https://img.shields.io/badge/GitHub-Pro%20%20%20-orange)<a href="https://github.com/supercodingninja" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="discoverfrederickthomas" height="30" width="30" /></a>
 <img align="left" src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/>
 
 ###### <a href="https://supercodingninja.github.io/Portfolio_Discover-Frederick-Thomas/Assets/Frederick%20Thomas_CV_2020.pdf" align="left" alt="Page hyperlink to 'Resume' section." title="Resume" target="_blank">Resume</a>
