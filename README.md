@@ -14,7 +14,7 @@
 <br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true" align="left" alt="Frederick's Stats" width="45%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true" align="left" alt="Frederick's Stats" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="50%"/>
 </p>
  
  <br>
