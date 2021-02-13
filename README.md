@@ -41,20 +41,24 @@
 
 <span align="center">
 
-- 🔭 I’m currently working on [All Gear Essential](https://github.com/supercodingninja/AllGearEssential)
+- 🔭 I’m currently working on Graduating [UW Coding Bootcamp](https://bootcamp.uw.edu/coding/landing/?s=Google-Brand&msg_cv_scta=4&msg_cv_stbn=1&msg_cv_fcta=1&fqvar1=3&pkw=uw%20coding%20bootcamp&pcrid=463279349719&pmt=e&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUNIVERSITY-OF-WASHINGTON%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CBRD%7CEXACT%7CCore%7CBootcamp&utm_term=uw%20coding%20bootcamp&s=google&k=uw%20coding%20bootcamp&utm_adgroupid=112635573270&utm_locationphysicalms=1027744&utm_matchtype=e&utm_network=g&utm_device=c&utm_content=463279349719&utm_placement=&gclid=CjwKCAiAjp6BBhAIEiwAkO9Wugy2haQytibsVTfajkHrwOmhgh4vv43ZvNVZ2dsEZid55aqbDbkp1BoCnGEQAvD_BwE&gclsrc=aw.ds)
 
 
 - 🌱 I’m currently learning **TypeScript, Oracle Database, Kibana, and Puppeteer. These are all self-studies I just started, to keep myself coding; and break away from my curriculum (one hour only, one subject only: schedule). I am interested in learning the front-end development, EmberJS; but I may need to study AngularJS, first. My curriculum will be teaching me ReactJS.**
 
+<br>
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/supercodingninja); but I'm expanding to [CodePen](https://codepen.io/SuperCodingNinja)
 
+<br>
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/discoverfrederickthomas/detail/recent-activity/posts/)
 
+<br>
 
 - 💬 Ask me about **HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones ;-)**
 
+<br>
 
 - 📫 How to reach me <a href="mailto:SuperCodingNinja@outlook.com" target="_blank">
     <img alt="Phone Icon" src="https://img.icons8.com/ultraviolet/50/000000/email-open--v2.png">
@@ -64,6 +68,7 @@
 
 - 📄 Know about my <a href="Assets/Frederick Thomas_CV_2020.pdf" alt="Page hyperlink to 'Resume' section." title="Resume" target="_blank">experiences.</a>
 
+<br>
 
 - ⚡ Fun fact **I can play any saxophone. I am learning how to play the keyboard and piano, along with learning the guitar (my fingers 😆) to help me progress in my chord theory.** All of this helps me become a better asset to my church organization, as a minister. I am a decorative U. S. Marine, including awards for several Humanitarian Operations, while serving in Operations: Enduring Freedom ; and Iraqi Freedom (three (3) deployments total. I am to serve my community; and our world (that's what being a minister means: a servant). I hope to serve by giving back: teaching children less fortunate, how to code; and showing them that there is a world they can reach, and even travel beyond. I also love football (played TE and Safety). I played back-half in Rugby. I wrestle for my JV and Varsity team in high school. I later learned how to grapple; and I studied mixed martial arts. My favorite team I was on was the Marching Band (#1). I choose to live life; and live it well.**
 </span>
