@@ -13,11 +13,11 @@
 
 <br>
 
-<span>
 ![Frederick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true)
   
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja" width="35%" height="35%"/>
-<span>
+ 
+ <br>
 
 <a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=100x20/>👈🏿 Check out my motivational video</a>
 
