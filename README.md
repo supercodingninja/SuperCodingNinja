@@ -13,9 +13,7 @@
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" append=20//>
-</p>
+![Frederick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby_icons=true)
 
 <a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=100x20/>👈🏿 Check out my motivational video</a>
 
@@ -32,7 +30,7 @@
 
 ##### I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Front-End Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well. Please feel free to <b>sponsor me</b>; so that I may continue my <b>education</b> and goals. Click <b>Buy Me Coffee</b>, To Show Your <b>Support</b>! <b>Thank you</b> for visiting; and everyone who sponsors me!
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja"/>![Frederick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=dark&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja"/>
 
 <br>
 
