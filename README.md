@@ -25,6 +25,8 @@
   <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=100x20/></a><p>
   <a href="https://www.buymeacoffee.com/FrederickThomas"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="FrederickThomas"/>
 </p>
+  
+<br><br><br>
 
 <p>
   <a href="https://codepen.io/supercodingninja" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="30" width="30" /></a>
