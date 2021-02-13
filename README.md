@@ -60,6 +60,7 @@
     <img alt="Phone Icon" src="https://img.icons8.com/ultraviolet/50/000000/email-open--v2.png">
   </a>
 
+<br>
 
 - 📄 Know about my <a href="Assets/Frederick Thomas_CV_2020.pdf" alt="Page hyperlink to 'Resume' section." title="Resume" target="_blank">experiences.</a>
 
