@@ -56,7 +56,9 @@
 - 💬 Ask me about **HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones ;-)**
 
 
-- 📫 How to reach me <a href="mailto: SuperCodingNinja@outlook.com" src="https://img.icons8.com/ultraviolet/50/000000/email-open--v2.png"/></a>
+- 📫 How to reach me <a href="mailto:SuperCodingNinja@outlook.com" target="_blank">
+    <img alt="Phone Icon" src="https://img.icons8.com/ultraviolet/50/000000/email-open--v2.png">
+  </a>
 
 
 - 📄 Know about my <a href="Assets/Frederick Thomas_CV_2020.pdf" alt="Page hyperlink to 'Resume' section." title="Resume" target="_blank">experiences.</a>
