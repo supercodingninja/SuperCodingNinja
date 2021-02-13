@@ -13,7 +13,7 @@
 
 <br>
 
-![Frederick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby_icons=true)
+![Frederick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true)
   
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" alt="supercodingninja"/>
 
