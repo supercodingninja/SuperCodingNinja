@@ -33,7 +33,7 @@
   <a href="https://www.youtube.com/c/# discoverfrederickthomas" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="# discoverfrederickthomas" height="30" width="30"/></a>
 </p>
 
-<span>
+<span style="font weight: 600">
   <p>
     I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Full-stack Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own.
   </p>
