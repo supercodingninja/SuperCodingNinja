@@ -15,7 +15,6 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&show_icons=true&locale=en" alt="supercodingninja" append=20//>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supercodingninja&show_icons=true&locale=en&layout=compact" alt="supercodingninja" append=200/>
 </p>
 
 <a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=100x20/>👈🏿 Check out my motivational video</a>
