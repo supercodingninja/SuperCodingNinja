@@ -24,11 +24,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true" align="left" alt="Frederick's Stats" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="45%"/>
 </p>
 
-<br>
+<br><br><br>
 
 <p align="left">
   <a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=100x20/></a>
 </p>
+
+<br>
 
 <p align="left">
   <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=100x20/></a>
@@ -38,7 +40,7 @@
   <b>👈🏿 Check out my motivational video!</b> I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Front-End Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well. Please feel free to <b>sponsor me</b>; so that I may continue my <b>education</b> and goals. Click <b>Buy Me Coffee</b>, To Show Your <b>Support</b>! <b>Thank you</b> for visiting; and everyone who sponsors me!<a href="https://www.buymeacoffee.com/FrederickThomas"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="FrederickThomas"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used" align="right"/>
 
 <br>
 
