@@ -18,21 +18,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://emberjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 </p>
 
-<br>
-
 ###### <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true" align="left" alt="Frederick's Stats" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="left" alt="supercodingninja" width="45%"/>
-
-<br>
 
 ###### <a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="http://img.youtube.com/vi/gP-fl4-H7hY/0.jpg" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=100x20/></a>
 
-<br>
-
-###### <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=100x20/></a>
-
-<br>
+<a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=100x20/></a>
 
 <p align="right">
+  <span></span><!--   <span></span>created for empty space  -->
   <b>👈🏿 Check out my motivational video!</b> I'm really new to Web Development; although I started out as a self-taught developer reading books and crashing things. I'm currently a Front-End Developer (Student) attending the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). It is my hope to become a certified Full-Stack Developer; so I can change my world. I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well.<a href="https://www.buymeacoffee.com/FrederickThomas"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="FrederickThomas"/>
 </p>
 
@@ -40,7 +33,7 @@
 
 <br>
 
-# <a href="https://github-profile-trophy.vercel.app/?username=supercodingninja" align="center"/><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" align="center"/></a>
+<h1 align="center"><a href="https://github-profile-trophy.vercel.app/?username=supercodingninja" align="center"/><img src="https://github-profile-trophy.vercel.app/?username=supercodingninja" alt="supercodingninja" align="center"/></a></h1>
 
 <br>
 
