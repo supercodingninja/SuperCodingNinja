@@ -1,4 +1,4 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja" height="50%" width="50%"/>
+<img align="left" src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/>
 
 ###### <a href="https://supercodingninja.github.io/markdown-cv/" align="left" alt="Page hyperlink to 'Resume' section." title="Resume" target="_blank">Resume</a>
 
@@ -14,7 +14,7 @@
 
 ###### <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank">Click 👉🏿 Here 👈🏿 To View With The Audio</a>
 
-<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="center" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  append=100x20/></a>
+<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="center" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="50%" width="50%"/></a>
 
 <br>
 
