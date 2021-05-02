@@ -1,6 +1,4 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/> &nbsp; <a href="https://supercodingninja.github.io/markdown-cv/" align="center" alt="Page hyperlink to 'CV' section." title="Resume" target="_blank">Curriculum Vitae</a> <a href="https://frederickthomas-inreactjs.herokuapp.com/" align="Right" alt="Page hyperlink to 'Portfolio' section." title="Portfolio" target="_blank">Portfolio</a>
-
-###### <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank" align="left">Click 👉🏿 Here 👈🏿 To View With The Audio</a>
+<img align="left" src="https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat" alt="supercodingninja"/> &nbsp; [![Badge](https://img.shields.io/badge/Portfolio%20-orange)](https://frederickthomas-inreactjs.herokuapp.com/)
 
 <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="left" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="50%" width="50%"/></a>
 
