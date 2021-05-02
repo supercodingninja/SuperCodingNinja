@@ -1,4 +1,4 @@
-![Badge](https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat) [![Badge](https://img.shields.io/badge/View%20My-Portfolio-orange)](https://frederickthomas-inreactjs.herokuapp.com/) [![Badge](https://img.shields.io/badge/View%20My-Curriculum%20Vitae%20-red)](https://supercodingninja.github.io/markdown-cv/)
+![Badge](https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat) [![Badge](https://img.shields.io/badge/View%20My-Portfolio-orange)](https://frederickthomas-inreactjs.herokuapp.com/) [![Badge](https://img.shields.io/badge/View%20My-Curriculum%20Vitae%20-orangered)](https://supercodingninja.github.io/markdown-cv/)
 
 <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="left" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="50%" width="50%"/></a>
 
