@@ -34,7 +34,7 @@
 
 <span align="center">
 
-- 🔭 I’m open-minded for employment and project collaboration(s).
+- 🔭 I’m open-minded for employment, and project collaboration(s).
 
 <br>
 
