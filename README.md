@@ -2,7 +2,7 @@
 
 <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="left" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="75%" width="50%"/></a>
 
-<a href="https://skyline.github.com/supercodingninja/2021" src="Assets/Media/supercodingninja-2021_skyline.stl"/></a>
+<img src="https://skyline.github.com/supercodingninja/2021" alt="Super Coding Ninja'Skyline in VR" align="center"/>
 
 <h3 align="right">Languages and Tools</h3>
 <p align="right">
