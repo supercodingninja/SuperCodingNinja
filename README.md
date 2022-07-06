@@ -15,7 +15,7 @@
 </p>
 
 ###### <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true" align="left" alt="Frederick's Stats" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="44%"/><br><br></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="44%"/><br><br><br></br>
 
 ###### <br><br/><a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_blank"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=180x20 height="300" width="50%"/></a>
 
@@ -37,7 +37,7 @@
 <br/>
 
 <span>
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m open-minded for employment, and project collaboration(s).  I’m currently learning **TypeScript, Oracle Database, Kibana, and Puppeteer. These are all self-studies I just started, to keep myself coding; and break away from my curriculum (one hour only, one subject only: schedule). I am interested in learning the front-end development, EmberJS; but I may need to study AngularJS, first. My curriculum will be teaching me ReactJS.  I regularly write articles on [LinkedIn]  Feel free to ask me about **HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones ;-)**></p>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m open-minded for employment, and project collaboration(s).  I’m currently learning **TypeScript, Oracle Database, Kibana, and Puppeteer. These are all self-studies I just started, to keep myself coding; and break away from my curriculum (one hour only, one subject only: schedule). I am interested in learning the front-end development, EmberJS; but I may need to study AngularJS, first. My curriculum will be teaching me ReactJS.  I regularly write articles on [LinkedIn]  Feel free to ask me about **HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones ;-)**></p>
 
   <br/>
   
