@@ -23,7 +23,8 @@
 <br/>
 
 <span>
-###### <a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_blank"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=180x20 height="50%" width="50%"/></a><p align="right"><b><font="larger">👈🏿 Check out my motivational video!</font></b> I'm a Full Stack Developer.  I graduated from the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well, so <a href="https://www.buymeacoffee.com/FrederickThomas"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="FrederickThomas"/></a>
+<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_blank"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=180x20 height="50%" width="50%"/></a>
+<p align="right"><b><font="larger">👈🏿 Check out my motivational video!</font></b> I'm a Full Stack Developer.  I graduated from the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well, so <a href="https://www.buymeacoffee.com/FrederickThomas"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="FrederickThomas"/></a>
 </p>
 </span>
 
@@ -37,7 +38,9 @@
 <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=180x20/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used" align="right" height="350" width="250"/>
 </span>
 
-<span align="center">
+<br/>
+
+<span>
 I’m open-minded for employment, and project collaboration(s).  I’m currently learning **TypeScript, Oracle Database, Kibana, and Puppeteer. These are all self-studies I just started, to keep myself coding; and break away from my curriculum (one hour only, one subject only: schedule). I am interested in learning the front-end development, EmberJS; but I may need to study AngularJS, first. My curriculum will be teaching me ReactJS.  I regularly write articles on [LinkedIn]  Feel free to ask me about **HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones ;-)**></p>
 
   <br/>
