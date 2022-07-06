@@ -15,12 +15,12 @@
 </p>
 
 ###### <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true" align="left" alt="Frederick's Stats" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="44%"/><br><br></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="44%"/><br></br>
 
-###### <br><br/><a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_blank"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=180x20 height="250" width="50%"/></a>
+###### <br><br><br/><a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_blank"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=180x20 height="300" width="50%"/></a>
 
 <p align="right">
-<b><font="larger">👈🏿 Check out my motivational video! I'm a Full Stack Developer. I graduated from the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well.
+  <b><font="larger">👈🏿 Check out my motivational video!</b> I'm a Full Stack Developer. I graduated from the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). I plan to continue my education (desire doctorate). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight to find opportunities to learn how to code: they were not available in my demographics. It is my hope that coding becomes a part of Every schools' curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to get help others learn how to code; and code, well.
   <a href="https://www.buymeacoffee.com/FrederickThomas"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="FrederickThomas"/></a>
 </p>
 
@@ -31,7 +31,7 @@
 <br/>
 
 <span align="center">
-  <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=180x20/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used" align="right" append=180x30/>
+  <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=180x20/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used" align="right" append=160x20/>
 </span>
 
 <br/>
