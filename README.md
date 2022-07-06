@@ -31,7 +31,7 @@
 <br/>
 
 <span align="center">
-  <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=180x20/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used" align="right" append=170x20/>
+  <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_blank"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" append=180x20/></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used" align="right" append=180x20/>
 </span>
 
 <br/>
