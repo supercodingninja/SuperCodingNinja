@@ -15,7 +15,7 @@
 </p>
 
 ###### <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true" align="left" alt="Frederick's Stats" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="44%"/><br><br><br></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=supercodingninja&" align="right" alt="supercodingninja" width="44%"/><br><br></br>
 
 ###### <br><br><br><br/><a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_blank"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" append=180x20 height="50%" width="50%"/></a>
 
