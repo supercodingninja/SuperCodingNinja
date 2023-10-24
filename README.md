@@ -1,8 +1,3 @@
-
-z
-
-
-
 ![Badge](https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat) [![Badge](https://img.shields.io/badge/View%20My-Portfolio-orange)](https://frederickthomas-inreactjs.herokuapp.com/) [![Badge](https://img.shields.io/badge/View%20My-Curriculum%20Vitae%20-orangered)](https://supercodingninja.github.io/markdown-cv/)
 
 <a href="https://skyline.github.com/supercodingninja/2021" alt="Super Coding Ninja'Skyline in VR" title="Super Coding Ninja's Skyline" target="_blank" align="left" src="Assets/Media/supercodingninjaGitHubSkyline.gif" height="100%" width="100%"/><img src="Assets/Media/supercodingninjaGitHubSkyline.gif" height="100%" width="100%"/></a>
@@ -25,7 +20,8 @@ z
 ###### <br><br><br><br><br><br><a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_blank"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" height="400" width="400"/></a>
 
 <p align="right">
-👈🏿 Check out my motivational video!</b> I'm a Full Stack Developer. I graduated from the University of Washington Coding Bootcamp, powered by Trilogy Education Services (2U, Inc. brand). I am continuing my education.  I desire to achieve a doctorate (baby steps, then big leaps). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight through many obstacles, in order to find opportunities, where I could learn how to code (which was not available in my demographics). It is my hope that coding becomes a part of every school's curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to help others learn how to code; and code, well.</p>
+👈🏿 Check out my motivational video!</b> I'm a Full Stack Developer. I graduated from the University of Washington Coding Bootcamp, powered by <a href="https://trilogy.com/education/">Trilogy Education Services</a>
+(<a href="https://2u.com/">2U, Inc. Brand</a>). I am continuing my education.  I desire to achieve a doctorate (baby steps, then big leaps). I truly believe that everyone should learn to code (I plan to teach my children). I am actively pursuing courses- even self-studies of my own. I had to fight through many obstacles, in order to find opportunities, where I could learn how to code (which was not available in my demographics). It is my hope that coding becomes a part of every school's curriculum, developing Developers from early grade school and up. I just started doing my own tutorials, as I learn, myself. It is my hope to help others learn how to code; and code, well.</p>
   <a href="https://www.buymeacoffee.com/FrederickThomas"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Frederick Thomas"/></a>
 </p>
 
