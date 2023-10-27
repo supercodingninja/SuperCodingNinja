@@ -12,7 +12,7 @@
 <br>
 
 <h3 align="right">Technologies I'm Interested In</h3>
-<p align="left-right">
+<p align="right">
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://emberjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://rapitek.com/en/blog/what-is-apex/" target="_blank"><img src="https://storage.googleapis.com/rapitek-company-website.appspot.com/uploads/froala_editor/images/1663577562488.png" alt="Apex" width="55" height="55"/></a>
 </p>
 
