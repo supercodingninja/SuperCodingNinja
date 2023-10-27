@@ -16,7 +16,7 @@
 
 ###### <img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true" align="left" alt="Frederick's Stats" width="400"/>
 
-###### <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SuperCodingNinja&theme=dark&border_radius=50.25&stroke=EBE4D9&ring=E1D17ABD&border=F8F8FF&fire=FBB606F1&sideNums=D4CEF929&currStreakLabel=EBB02A&dates=D09127D5&sideLabels=B0D2EB77&excludeDaysLabel=4C0610&background=50%2C252BACAC%2C966E18" alt="GitHub Streak" /></a><br><br><br></br>
+###### <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SuperCodingNinja&theme=dark&border_radius=50.25&stroke=EBE4D9&ring=E1D17ABD&border=F8F8FF&fire=FBB606F1&sideNums=D4CEF929&currStreakLabel=EBB02A&dates=D09127D5&sideLabels=B0D2EB77&excludeDaysLabel=4C0610&background=50%2C252BACAC%2C966E18" alt="GitHub Streak" align="right" width="250"/></a><br><br><br></br>
 
 ###### <br><br><br><br><br><br><a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_blank"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" height="400" width="400"/></a>
 
