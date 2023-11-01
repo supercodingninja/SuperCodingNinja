@@ -1,4 +1,4 @@
-![Badge](https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat) [![Badge](https://img.shields.io/badge/View%20My-Portfolio-orange)](https://frederickthomas-inreactjs.herokuapp.com/) [![Badge](https://img.shields.io/badge/View%20My-Curriculum%20Vitae%20-orangered)](https://supercodingninja.github.io/markdown-cv/)
+![Badge](https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat) [![Badge](https://img.shields.io/badge/View%20My-Portfolio-orange)](https://frederickthomas-inreactjs.herokuapp.com/) <!--I need to make a new sit (something is wrong with my code. --> [![Badge](https://img.shields.io/badge/View%20My-Curriculum%20Vitae%20-orangered)](https://supercodingninja.github.io/markdown-cv/)
 
 <a href="https://skyline.github.com/supercodingninja/2021" alt="Super Coding Ninja'Skyline in VR" title="Super Coding Ninja's Skyline" target="_blank" align="left" src="Assets/Media/supercodingninjaGitHubSkyline.gif" height="100%" width="100%"/><img src="Assets/Media/supercodingninjaGitHubSkyline.gif" height="100%" width="100%"/></a>
 
