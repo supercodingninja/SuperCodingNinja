@@ -4,8 +4,6 @@
 <!-- THE EYE OPENER (THIS HAS TO BE BIG)! -->
 <a href="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Page hyperlink to 'Introduction' section." title="Hi!" target="_new"><img align="left" src="https://media.giphy.com/media/9aAArwpuYFTEoLZWGr/giphy.gif" alt="Hi, I'm Frederick! #DiscoverFrederickThomas" height="250" width="100%"/></a>&nbsp;
 
-<br/>
-
 <!-- Intro Paragraph -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni&weight=300&pause=1000&color=DF652FDF&background=0605E0A3&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+I'm+A+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9D+I%E2%80%99m+Open-minded+To+Start-ups++%F0%9F%92%BE;%F0%9F%8C%90+Project+Collaboration(s)%F0%9F%92%A1;%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93+Instructing+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8F%AB;%F0%9F%97%A3%EF%B8%8F+Public+Speaking+(Motivation)++%F0%9F%8E%99;%E2%9A%96%EF%B8%8F+Advisory+Board+Membership+%F0%9F%92%8E;%F0%9F%8E%B7+Long+Walks+On+The+Beach+%F0%9F%98%8E" alt="Typing SVG" /></a>
