@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1SD_HIZwPCSN97SZZEThZ7V--hbtdfHtg/view" alt="Sax Solution' section." title="Sax Solution" target="_new"/><img align="right" src="Assets/Media/SaxSolution.png" alt="Sax Solution" title="Sax Solution" height="400" width="48%" target="_new"/></a>
+<a href="https://drive.google.com/file/d/1SD_HIZwPCSN97SZZEThZ7V--hbtdfHtg/view" alt="Sax Solution' section." title="Sax Solution" target="_new"/><img align="right" src="Assets/Media/IMG_1362.JPG" alt="Sax Solution" title="Sax Solution" height="400" width="48%" target="_new"/></a>
 
 <br/>
 
