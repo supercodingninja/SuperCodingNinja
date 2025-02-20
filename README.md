@@ -1,12 +1,14 @@
 <!-- How Many Times My Profile Was Visited -->
 <span>![Badge](https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat)
 
+<!-- The Razzle- Dazzle -->
+<p align="center">
 <!-- THE EYE OPENER (THIS HAS TO BE BIG)! -->
-<img src="https://github.com/supercodingninja/SuperCodingNinja/blob/main/Assets/Media/IMG_F7B4632810C0-1.jpeg" align="center" width="100%"/></img>
-
+  <img src="https://github.com/supercodingninja/SuperCodingNinja/blob/main/Assets/Media/IMG_F7B4632810C0-1.jpeg" align="center" width="50%"/></img>
+  
 <!-- Intro Paragraph -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni&weight=300&pause=1000&color=DF652FDF&background=00308F&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+I'm+A+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9D+I%E2%80%99m+Open-minded+To+Start-ups++%F0%9F%92%BE;%F0%9F%8C%90+Project+Collaboration(s)%F0%9F%92%A1;%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93+Instructing+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8F%AB;%F0%9F%97%A3%EF%B8%8F+Public+Speaking+(Motivation)++%F0%9F%8E%99;%E2%9A%96%EF%B8%8F+Advisory+Board+Membership+%F0%9F%92%8E;%F0%9F%8E%B7+Long+Walks+On+The+Beach+%F0%9F%98%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni&weight=300&pause=1000&color=DF652FDF&background=00308F&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+I'm+A+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9D+I%E2%80%99m+Open-minded+To+Start-ups++%F0%9F%92%BE;%F0%9F%8C%90+Project+Collaboration(s)%F0%9F%92%A1;%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93+Instructing+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8F%AB;%F0%9F%97%A3%EF%B8%8F+Public+Speaking+(Motivation)++%F0%9F%8E%99;%E2%9A%96%EF%B8%8F+Advisory+Board+Membership+%F0%9F%92%8E;%F0%9F%8E%B7+Long+Walks+On+The+Beach+%F0%9F%98%8E" alt="Typing SVG" align="center"/></a>
   
   <i>Feel free to ask me about HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones 🎶 🎷 🎵 Click onto one of the four videos, below, to know more about me 🎬 🎤 🎹 "Choose Your Hard" represents what I listen to and my drive to succeed and win 💪🏿 🙏🏿 👏🏿 🙌🏿</i>
 </p>
