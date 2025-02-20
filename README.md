@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true&border_radius=50.25" align="left" alt="Frederick's Stats" height="200" width="45%"/>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=SuperCodingNinja&theme=dark&border_radius=50.25&stroke=EBE4D9&ring=E1D17ABD&border=F8F8FF&fire=FBB606F1&sideNums=D4CEF929&currStreakLabel=EBB02A&dates=D09127D5&sideLabels=B0D2EB77&excludeDaysLabel=4C0610&background=50%2C252BACAC%2C966E18" alt="GitHub Streak" align="right" width="45%"/></a>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=supercodingninja&theme=great-gatsby&show_icons=true&border_radius=50.25" align="left" alt="Frederick's Stats" height="200" width="45%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=SuperCodingNinja&theme=dark&border_radius=50.25&stroke=EBE4D9&ring=E1D17ABD&border=F8F8FF&fire=FBB606F1&sideNums=D4CEF929&currStreakLabel=EBB02A&dates=D09127D5&sideLabels=B0D2EB77&excludeDaysLabel=4C0610&background=50%2C252BACAC%2C966E18" alt="GitHub Streak" align="right" width="45%"/></a>
 
 <br/>
 
