@@ -7,13 +7,21 @@
 <p>I'm a Full Stack Developer; and I’m open-minded for employment, and project collaboration(s).  I earned my M. E. R. N. Full Stack Web Development certification from the <a href="https://www.pce.uw.edu/" target="_new">University of Washington</a>(<a href="https://www.pce.uw.edu/certificates/full-stack-development-with-javascript">UW Coding Bootcamp</a>), powered by <a href="https://trilogy.com/education/" target="_new">Trilogy Education Services</a>
 (a <a href="https://2u.com/" target="_new">2U, Inc. Brand</a>). I am continuing my education. I’m currently taking a Python course offered by <a href="https://dce.harvard.edu/" target="_new">Harvard Division of Continuing Education</a>; and a Full Stack (M. E. R. N.) + AI course offered by <a href="https://frontendsimplified.com/" target="_new">Frontend Development</a>.  During my downtime at work, I sometimes like to find videos about TypeScript, Oracle Database, Kibana, and even Puppeteer.  I'll find projects that I want to try myself; and see if I can make them better.  Feel free to ask me about HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones 🎶 🎷 🎵 Click onto the videos, below, to know more about me 🎬 🎤 🎹</p>
 
-<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_new"/><img align="left" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas" height="400" width="48%" style="border-radius:10"/></a>
+<br/>
 
-<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="Page hyperlink to 'Introduction' section." title="START, NOW!!!" target="_new"><img align="right" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" height="400" width="48%"/></a>
+<a href="https://www.youtube.com/watch?v=heQ18p8zu74" title="MOTIVATION (MY ATTITITUDE): CHOOSE YOUR HARD!!!" target="_new"><img align="left" src="Assets/Media/IMG_2747.JPG" alt="MOTIVATION (MY ATTITITUDE): CHOOSE YOUR HARD!!!" height="400" width="400" target="_new"/></a>
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1SD_HIZwPCSN97SZZEThZ7V--hbtdfHtg/view" alt="Sax Solution' section." title="Sax Solution" target="_new"/><img align="right" src="Assets/Media/IMG_1362.JPG" alt="Sax Solution" title="Sax Solution" height="400" width="48%" target="_new"/></a>
+<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!." title="US!" target="_new"/><img align="right" src="Assets/Media/us.gif" alt="Not alone: US!!! #DiscoverFrederickThomas" height="400" width="400" target="_new"/></a>
+
+<br/>
+
+<a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="START, NOW!!!" title="START, NOW!!!" target="_new"><img align="right" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" height="400" width="400" target="_new"/></a>
+
+<br/>
+
+<a href="https://drive.google.com/file/d/1SD_HIZwPCSN97SZZEThZ7V--hbtdfHtg/view" alt="Sax Solution' section." title="Sax Solution" target="_new"/><img align="right" src="Assets/Media/IMG_1362.JPG" alt="Sax Solution" title="Sax Solution" height="400" width="400" target="_new"/></a>
 
 <br/>
 
