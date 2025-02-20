@@ -45,4 +45,16 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used" align="center" width="100%"/>
+<!-- Contact and Connect with me. -->
+<p  align="center">
+  <img src="Assets/Media/SCNcube.gif" alt="The Super Coding Ninja" title="The Super Coding Ninja" align="left" width="auto"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercodingninja&theme=tokyonight" alt="Top Languages Used" align="right" append=198x40/>
+</p>
+
+<br/>
+ 
+<!-- Footer (Connection continues). -->
+<p align="center">
+  <a href="https://supercodingninja.github.io/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="discoverfrederickthomas" height="40" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/discoverfrederickthomas" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="discoverfrederickthomas" height="40" width="40"/></a>&nbsp;<a href="mailto:SuperCodingNinja@outlook.com" target="_blank"><img align="center" src="https://e7.pngegg.com/pngimages/141/557/png-clipart-microsoft-outlook-outlook-com-computer-icons-email-email-miscellaneous-blue.png" alt="supercodingninja" height="40" width="40"/></a>&nbsp;<a href="https://fdt.land/contact" align="center" alt="Call Frederick" height="40" width="40" target="_blank"><img src="Assets/Media/images/iphone.gif" alt="Call Frederick" height="40" width="40"/></a>&nbsp;<a href="https://www.youtube.com/playlist?list=PLnxMwdxjTgTEN-xRODXLJ6sI5hgz1lFbu" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2020/11/01/04/17/youtube-5702828_1280.png" alt="# discoverfrederickthomas" height="40" width="40"/></a>&nbsp;<a href="https://fb.com/supercodingninja" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="supercodingninja" height="40" width="40"/></a>&nbsp;<a href="https://codepen.io/supercodingninja" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="supercodingninja" height="40" width="40"/></a>&nbsp;<a href="https://dev.to/supercodingninja" target="_blank"><img align="center" src="Assets/Media/icons/dev_to_icon_130961.png" alt="supercodingninja" height="40" width="40"/></a>&nbsp;<a href="https://youtu.be/8P3QmrxNILE" target="_blank"><img src="Assets/Media/icons/USMC.jpg" alt="USMC Logo" width="40" height="40"/></a>
+</p>
