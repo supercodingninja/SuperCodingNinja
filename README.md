@@ -22,7 +22,7 @@
   
 <!-- Intro Paragraph -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni&weight=300&pause=1000&color=DF652FDF&background=00308F&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+I'm+A+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9D+I%E2%80%99m+Open-minded+To+Start-ups++%F0%9F%92%BE;%F0%9F%8C%90+Project+Collaboration(s)%F0%9F%92%A1;%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93+Instructing+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8F%AB;%F0%9F%97%A3%EF%B8%8F+Public+Speaking+(Motivation)++%F0%9F%8E%99;%E2%9A%96%EF%B8%8F+Advisory+Board+Membership+%F0%9F%92%8E;%F0%9F%8E%B7+Long+Walks+On+The+Beach+%F0%9F%98%8E" alt="Typing SVG" align="center"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni&weight=300&pause=1000&color=DF652FDF&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+I'm+A+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9D+I%E2%80%99m+Open-minded+To+Start-ups++%F0%9F%92%BE;%F0%9F%8C%90+Project+Collaboration(s)%F0%9F%92%A1;%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93+Instructing+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8F%AB;%F0%9F%97%A3%EF%B8%8F+Public+Speaking+(Motivation)++%F0%9F%8E%99;%E2%9A%96%EF%B8%8F+Advisory+Board+Membership+%F0%9F%92%8E;%F0%9F%8E%B7+Long+Walks+On+The+Beach+%F0%9F%98%8E" alt="Typing SVG" align="center"/></a>
   
   <h4><i>Feel free to ask me about HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones 🎶 🎷 🎵 Click onto one of the four videos, below, to know more about me 🎬 🎤 🎹 "Choose Your Hard" represents what I listen to and my drive to succeed and win 💪🏿 🙏🏿 👏🏿 🙌🏿</i>
 </p></h4>
@@ -35,8 +35,6 @@
 <a href="http://www.youtube.com/watch?v=gP-fl4-H7hY" alt="START, NOW!!!" title="START, NOW!!!" target="_new"><img align="left" src="Assets/Media/Start%20Now%2C%20Transform%20Today!%20-%20YouTube.gif" alt="Start Now, Transform Today! #DiscoverFrederickThomas" height="300" width="48%" target="_new"/></a>
 
 <a href="https://drive.google.com/file/d/1SD_HIZwPCSN97SZZEThZ7V--hbtdfHtg/view" alt="Sax Solution' section." title="Sax Solution" target="_new"/><img align="right" src="Assets/Media/mkjoy.gif" alt="Sax Solution" title="Sax Solution" height="300" width="48%" target="_new"/></a>
-
-<br/>
 
 <!-- Skyline -->
 <p><a href="https://skyline.github.com/supercodingninja/2021" alt="Super Coding Ninja'Skyline in VR" title="Super Coding Ninja's Skyline" target="_new" align="left" src="Assets/Media/supercodingninjaGitHubSkyline.gif" height="100%" width="100%"/><img src="Assets/Media/supercodingninjaGitHubSkyline.gif" height="100%" width="100%"/></a></p>
