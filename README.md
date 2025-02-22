@@ -4,12 +4,12 @@
 <!-- After researching, I learned how to accomplish this by chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tug.org/pracjourn/2007-4/walden/color.pdf and Luigi Minardi (https://github.com/luigiMinardi).  Check his awesome repo out 👉🏿 https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9#file-colored-github-readme-md](https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db#colors) -->
   <!-- Under Badge -->
   <p align="left">
-    $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Ye}{\color[rgb]{0.1, 0.0, 0.9}s,~ }{\color[rgb]{0.2, 0.0, 0.8}I~}{\color[rgb]{0.3, 0.0, 0.7}Rea}{\color[rgb]{0.4, 0.0, 0.6}lly~ }{\color[rgb]{0.5, 0.0, 0.5}Am~ }{\color[rgb]{0.6, 0.0, 0.4}Th}{\color[rgb]{0.7, 0.0, 0.3}is~ }{\color[rgb]{0.8, 0.0, 0.2}Awe}{\color[rgb]{0.9, 0.0, 0.1}som}{\color[rgb]{1.0, 0.0, 0.0}e!}}$
+    $\normalsize{\textsf{{\color[rgb]{0.8,0.6,0.3}Y}{\color[rgb]{0.5, 0.0, 0.5}es,~I~r}}{\color[rgb]{0.8,0.6,0.3}E}{\color[rgb]{0.5, 0.0, 0.5}ally~{\color[rgb]{0.8,0.6,0.3}A}{\color[rgb]{0.5, 0.0, 0.5}m~T}{\color[rgb]{0.8,0.6,0.3}H}{\color[rgb]{0.5, 0.0, 0.5}is~ }{\color[rgb]{0.8, 0.0, 0.2}A}{\color[rgb]{0.9, 0.0, 0.1}we}{\color[rgb]{0.5,0.0,0.5}some}{\color[rgb]{0.8, 0.6, 0.3}!}}}$
   </p>
 
   <!-- OVER PORTRAIT! -->
   <p align="center"> <!-- USE 0.8,0.6,0.3 FOR ORANGE; AND USE 0.1, 0.0, 0.9FOR BLUE.  BIG NOTE: USE "~" SYMBOL AFTER THE LAST LETTER/END OF SENTENCE FOR SPACE! -->
-    $\textsf{{\color[rgb]{0.8,0.6,0.3}F}{\color[rgb]{0.1, 0.0, 0.9}R}{\color[rgb]{0.8,0.6,0.3}E}{\color[rgb]{0.1, 0.0, 0.9}D}{\color[rgb]{0.8,0.6,0.3}E}{\color[rgb]{0.1, 0.0, 0.9}R}{\color[rgb]{0.8,0.6,0.3}I}{\color[rgb]{0.1, 0.0, 0.9}C}{\color[rgb]{0.8,0.6,0.3}K}}$ 🎷 <b><i><ins>THE SUPER CODING NINJA</ins></i></b> 🎷 $\textsf{{\color[rgb]{0.8,0.6,0.3}T}{\color[rgb]{0.1, 0.0, 0.9}H}{\color[rgb]{0.8,0.6,0.3}O}{\color[rgb]{0.1, 0.0, 0.9}M}{\color[rgb]{0.8,0.6,0.3}A}{\color[rgb]{0.1, 0.0, 0.9}S}}$
+    🎷 $\Huge{\textsf{{\color[rgb]{0.0, 0.0, 1.0}TH}{\color[rgb]{0.1, 0.0, 0.9}E~ }{\color[rgb]{0.2, 0.0, 0.8}S}{\color[rgb]{0.3, 0.0, 0.7}UP}{\color[rgb]{0.4, 0.0, 0.6}ER~ }{\color[rgb]{0.5, 0.0, 0.5}CO}{\color[rgb]{0.6, 0.0, 0.4}DI}{\color[rgb]{0.7, 0.0, 0.3}NG~}{\color[rgb]{0.8, 0.0, 0.2}NI}{\color[rgb]{0.9, 0.0, 0.1}N}{\color[rgb]{1.0, 0.0, 0.0}JA!}}}$ 🎷
   </p>
 </span>
 
