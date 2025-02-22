@@ -20,12 +20,12 @@
 <!-- THE EYE OPENER (THIS HAS TO BE BIG)! -->
   <img src="https://github.com/supercodingninja/SuperCodingNinja/blob/main/Assets/Media/IMG_F7B4632810C0-1.jpeg" align="center" width="50%"/></img>
   
-<!-- Intro Paragraph -->
+<!-- Typying Paragraph -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni&weight=300&pause=1000&color=DF652FDF&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+I'm+A+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9D+I%E2%80%99m+Open-minded+To+Start-ups++%F0%9F%92%BE;%F0%9F%8C%90+Project+Collaboration(s)%F0%9F%92%A1;%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93+Instructing+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8F%AB;%F0%9F%97%A3%EF%B8%8F+Public+Speaking+(Motivation)++%F0%9F%8E%99;%E2%9A%96%EF%B8%8F+Advisory+Board+Membership+%F0%9F%92%8E;%F0%9F%8E%B7+Long+Walks+On+The+Beach+%F0%9F%98%8E" alt="Typing SVG" align="center"/></a>
-  
-  <h4><i>Feel free to ask me about HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones 🎶 🎷 🎵 Click onto one of the four videos, below, to know more about me 🎬 🎤 🎹 "Choose Your Hard" represents what I listen to and my drive to succeed and win 💪🏿 🙏🏿 👏🏿 🙌🏿</i>
-</p></h4>
+
+<!-- Intro to Vids paragraph. -->
+<p align="center">$\Huge{\textsf{\color[rgb]{0.0, 0.0, 1.0}👇🏿~{\color[rgb]{0.8, 0.6, 0.3}Click~{\color[rgb]{0.0, 0.0, 1.0}onto one of the four~{\color[rgb]{0.8, 0.6, 0.3}videos{\color[rgb]{0.0, 0.0, 1.0},~{\color[rgb]{0.8, 0.6, 0.3}below{\color[rgb]{0.0, 0.0, 1.0}, to know more~{\color[rgb]{0.8, 0.6, 0.3}about me 👇🏿}}}}}}}}}$</p>
 
 <!-- Videos (.gif and .jpg files serving as visible placeholder in order for the end-user to have as an image to click on, and travel to hyperlink's destination. -->
 <a href="https://www.youtube.com/watch?v=heQ18p8zu74" title="MOTIVATION (MY ATTITITUDE): CHOOSE YOUR HARD!!!" target="_new"><img align="left" src="Assets/Media/cyhInvrt.gif" alt="MOTIVATION (MY ATTITITUDE): CHOOSE YOUR HARD!!!" height="300" width="48%" target="_new"/></a>
