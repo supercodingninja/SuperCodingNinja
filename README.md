@@ -1,5 +1,19 @@
 <!-- How Many Times My Profile Was Visited -->
-<span>![Badge](https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat)
+<span align="left">![Badge](https://komarev.com/ghpvc/?username=supercodingninja&label=Profile%20views&color=0e75b6&style=flat) 
+
+<!-- After researching, I learned how to accomplish this by chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tug.org/pracjourn/2007-4/walden/color.pdf and Luigi Minardi (https://github.com/luigiMinardi).  Check his awesome repo out 👉🏿 https://gist.github.com/pvrego/2e346674c3abbaa6366dfe86b8488dc9#file-colored-github-readme-md](https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db#colors) -->
+  <!-- Under Badge -->
+  <p align="left">
+    $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Ye}{\color[rgb]{0.1, 0.0, 0.9}s,~ }{\color[rgb]{0.2, 0.0, 0.8}I~}{\color[rgb]{0.3, 0.0, 0.7}Rea}{\color[rgb]{0.4, 0.0, 0.6}lly~ }{\color[rgb]{0.5, 0.0, 0.5}Am~ }{\color[rgb]{0.6, 0.0, 0.4}Th}{\color[rgb]{0.7, 0.0, 0.3}is~ }{\color[rgb]{0.8, 0.0, 0.2}Awe}{\color[rgb]{0.9, 0.0, 0.1}som}{\color[rgb]{1.0, 0.0, 0.0}e!}}$
+  </p>
+
+  <!-- OVER PORTRAIT! -->
+  <p align="center"> <!-- USE 0.8,0.6,0.3 FOR ORANGE; AND USE 0.1, 0.0, 0.9FOR BLUE.  BIG NOTE: USE "~" SYMBOL AFTER THE LAST LETTER/END OF SENTENCE FOR SPACE! -->
+    $\textsf{{\color[rgb]{0.1, 0.0, 0.9}F}{\color[rgb]{0.8,0.6,0.3}R}{\color[rgb]{0.1, 0.0, 0.9}E}{\color[rgb]{0.1, 0.0, 0.9}D}{\color[rgb]{0.8,0.6,0.3}E}{\color[rgb]{0.1, 0.0, 0.9}R}{\color[rgb]{0.1, 0.0, 0.9}I}{\color[rgb]{0.8,0.6,0.3}C}{\color[rgb]{0.1, 0.0, 0.9}K~}}$🎷 THE SUPER CODING 🎷 $\textsf{{\color[rgb]{0.1, 0.0, 0.9}T}{\color[rgb]{0.8,0.6,0.3}H}{\color[rgb]{0.1, 0.0, 0.9}O}{\color[rgb]{0.1, 0.0, 0.9}M}{\color[rgb]{0.8,0.6,0.3}A}{\color[rgb]{0.1, 0.0, 0.9}S}}$
+  </p>
+</span>
+
+
 
 <!-- The Razzle- Dazzle -->
 <p align="center">
@@ -10,8 +24,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni&weight=300&pause=1000&color=DF652FDF&background=00308F&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+I'm+A+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9D+I%E2%80%99m+Open-minded+To+Start-ups++%F0%9F%92%BE;%F0%9F%8C%90+Project+Collaboration(s)%F0%9F%92%A1;%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93+Instructing+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8F%AB;%F0%9F%97%A3%EF%B8%8F+Public+Speaking+(Motivation)++%F0%9F%8E%99;%E2%9A%96%EF%B8%8F+Advisory+Board+Membership+%F0%9F%92%8E;%F0%9F%8E%B7+Long+Walks+On+The+Beach+%F0%9F%98%8E" alt="Typing SVG" align="center"/></a>
   
-  <i>Feel free to ask me about HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones 🎶 🎷 🎵 Click onto one of the four videos, below, to know more about me 🎬 🎤 🎹 "Choose Your Hard" represents what I listen to and my drive to succeed and win 💪🏿 🙏🏿 👏🏿 🙌🏿</i>
-</p>
+  <h4><i>Feel free to ask me about HTML5, SCSS, CSS3, Markdown, Bootstrap, Content Delivery Networks; or Saxophones 🎶 🎷 🎵 Click onto one of the four videos, below, to know more about me 🎬 🎤 🎹 "Choose Your Hard" represents what I listen to and my drive to succeed and win 💪🏿 🙏🏿 👏🏿 🙌🏿</i>
+</p></h4>
 
 <!-- Videos (.gif and .jpg files serving as visible placeholder in order for the end-user to have as an image to click on, and travel to hyperlink's destination. -->
 <a href="https://www.youtube.com/watch?v=heQ18p8zu74" title="MOTIVATION (MY ATTITITUDE): CHOOSE YOUR HARD!!!" target="_new"><img align="left" src="Assets/Media/cyhInvrt.gif" alt="MOTIVATION (MY ATTITITUDE): CHOOSE YOUR HARD!!!" height="300" width="48%" target="_new"/></a>
@@ -58,8 +72,8 @@
 
 <p  align="left">
   <!-- MAKE THIS INTO AN AWESOME RADIO PLAYER USING IFRAME https://prahec.com/pawtunes -->
-  <img src="Assets/Media/SCNcube.gif" alt="The Super Coding Ninja" title="The Super Coding Ninja" align="centert" width="auto"/>
-</p>
+  <a href"https://www.youtube.com/watch?v=sl_kv-6-I_s"><img src="Assets/Media/SCNcube.gif" alt="The Super Coding Ninja" title="The Super Coding Ninja" align="centert" width="auto"/>
+</p></a>
 
 <p align="left">
 <!-- Footer (Connection continues). -->
