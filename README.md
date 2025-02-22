@@ -9,7 +9,7 @@
 
   <!-- OVER PORTRAIT! -->
   <p align="center"> <!-- USE 0.8,0.6,0.3 FOR ORANGE; AND USE 0.1, 0.0, 0.9FOR BLUE.  BIG NOTE: USE "~" SYMBOL AFTER THE LAST LETTER/END OF SENTENCE FOR SPACE! -->
-    $\textsf{{\color[rgb]{0.8,0.6,0.3}F}{\color[rgb]{0.1, 0.0, 0.9}R}{\color[rgb]{0.8,0.6,0.3}E}{\color[rgb]{0.1, 0.0, 0.9}D}{\color[rgb]{0.8,0.6,0.3}E}{\color[rgb]{0.1, 0.0, 0.9}R}{\color[rgb]{0.8,0.6,0.3}I}{\color[rgb]{0.1, 0.0, 0.9}C}{\color[rgb]{0.8,0.6,0.3}K~}}$🎷 THE SUPER CODING 🎷 $\textsf{{\color[rgb]{0.8,0.6,0.3}T}{\color[rgb]{0.1, 0.0, 0.9}H}{\color[rgb]{0.8,0.6,0.3}O}{\color[rgb]{0.1, 0.0, 0.9}M}{\color[rgb]{0.8,0.6,0.3}A}{\color[rgb]{0.1, 0.0, 0.9}S}}$
+    $\textsf{{\color[rgb]{0.8,0.6,0.3}F}{\color[rgb]{0.1, 0.0, 0.9}R}{\color[rgb]{0.8,0.6,0.3}E}{\color[rgb]{0.1, 0.0, 0.9}D}{\color[rgb]{0.8,0.6,0.3}E}{\color[rgb]{0.1, 0.0, 0.9}R}{\color[rgb]{0.8,0.6,0.3}I}{\color[rgb]{0.1, 0.0, 0.9}C}{\color[rgb]{0.8,0.6,0.3}K}}$ 🎷 <b><i><ins>THE SUPER CODING NINJA</ins></i></b> 🎷 $\textsf{{\color[rgb]{0.8,0.6,0.3}T}{\color[rgb]{0.1, 0.0, 0.9}H}{\color[rgb]{0.8,0.6,0.3}O}{\color[rgb]{0.1, 0.0, 0.9}M}{\color[rgb]{0.8,0.6,0.3}A}{\color[rgb]{0.1, 0.0, 0.9}S}}$
   </p>
 </span>
 
